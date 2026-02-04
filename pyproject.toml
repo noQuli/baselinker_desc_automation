@@ -1,0 +1,17 @@
+[project]
+name = "pracuj-autocv"
+version = "0.1.0"
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic",
+    "selenium",
+    "python-dotenv",
+    "pandas"
+    "langchain",
+    "requests",
+    "fake-useragent"
+]
+keywords = ["automation", "selenium", "baselinker"]
+
